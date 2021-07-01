@@ -1,16 +1,13 @@
-# receitasdomazza
+# Receitas do Mazza
 
-A new Flutter project.
+Projeto em Flutter
 
-## Getting Started
+## Inicialmente
 
-This project is a starting point for a Flutter application.
+Esse será um projeto para que eu possa treinar e aprender minhas habilidades com Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+O projeto inicial consiste em ser um aplicativo que irá exibir receitas culinárias dividadas por categorias.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Inicialmente irá puxar essas receitas de dentro de um proprio arquivo em dart. Não sendo possível adicionar novas receitas pelo App.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Com o tempo irei adicionando novas funcionalidades e trazendo mais informações de utilização.
